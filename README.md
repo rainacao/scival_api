@@ -8,6 +8,8 @@ conda install python=3.10
 conda install jupyter
 conda install pandas
 conda install -c conda-forge python-dotenv
+
+pip install pybliometrics
 ```
 2. download the repo as a zip file, or by going into the directory of your choice `cd desired/file/path` and clone the repository using `git clone https://github.com/rainacao/scival_author_lookup.git`
 
