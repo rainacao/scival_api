@@ -5,6 +5,7 @@
 conda create -n authorlookup
 conda activate authorlookup
 conda install python=3.10
+conda install matplotlib
 conda install jupyter
 conda install pandas
 conda install -c conda-forge python-dotenv
